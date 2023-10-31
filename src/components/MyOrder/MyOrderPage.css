@@ -1,0 +1,25 @@
+
+.myorder_page{
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+    padding: 32px 48px;
+}
+
+.user_info{
+    gap: 16px;
+    margin-bottom: 32px;
+}
+
+.user_info img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.user_name{
+    font-size: 21px;
+    font-weight: 600;
+}
